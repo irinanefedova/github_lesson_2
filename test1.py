@@ -1,3 +1,3 @@
-#! /bin/python
+# Hell yeah!
 
 print('Good afternoon!')
